@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Gwane Technologies">
+  <rect width="64" height="64" rx="14" fill="#050805"/>
+  <path d="M35 9 14 20v24l21 11 16-8V32H32v9h9v1l-6 3-12-6V25l12-6 9 5 5-8-14-7Z" fill="none" stroke="#7be01c" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="50" cy="19" r="4" fill="#7be01c"/>
+  <circle cx="50" cy="32" r="4" fill="#7be01c"/>
+  <circle cx="50" cy="45" r="4" fill="#7be01c"/>
+</svg>
